@@ -1,0 +1,12 @@
+{"type": "incoming", "chat_id": 5528359553, "text": "Hello", "timestamp": 1785431708.8178642}
+{"type": "incoming", "chat_id": 5528359553, "text": "Hello", "timestamp": 1785431775.7891328}
+{"type": "outgoing", "chat_id": 5528359553, "text": "{\"message\": \"Hello! How can I help you today?\", \"log_url\": \"https://milana-ponderous-margy.ngrok-free.dev/\"}", "timestamp": 1785431787.9689462}
+{"type": "incoming", "chat_id": 5528359553, "text": "Which state has the highest maternal mortality rate based on MOSPI data? Reply with ONLY a JSON object like {\"state\": \"<state name>\", \"log_url\": \"<url>\"}", "timestamp": 1785431808.4529965}
+{"type": "outgoing", "chat_id": 5528359553, "text": "{\"state\": \"Assam\", \"log_url\": \"https://milana-ponderous-margy.ngrok-free.dev/\"}", "timestamp": 1785431821.5631988}
+{"type": "incoming", "chat_id": 5528359553, "text": "What is 2 + 2? Reply with ONLY a JSON object like {\"answer\": 4, \"log_url\": \"<url>\"}", "timestamp": 1785431822.6432192}
+{"type": "outgoing", "chat_id": 5528359553, "text": "{\"answer\": 4, \"log_url\": \"https://milana-ponderous-margy.ngrok-free.dev/\"}", "timestamp": 1785431826.7282171}
+{"type": "incoming", "chat_id": 5528359553, "text": "Hello!", "timestamp": 1785431827.2942774}
+{"type": "incoming", "chat_id": 5528359553, "text": "Which state has the highest maternal mortality rate based on MOSPI data? Reply with ONLY a JSON object like {\"state\": \"<state name>\", \"log_url\": \"<url>\"}", "timestamp": 1785432061.586395}
+{"type": "outgoing", "chat_id": 5528359553, "text": "{\"state\": \"Assam\", \"log_url\": \"https://milana-ponderous-margy.ngrok-free.dev/\"}", "timestamp": 1785432071.9569}
+{"type": "incoming", "chat_id": 5528359553, "text": "What is 2 + 2? Reply with ONLY a JSON object like {\"answer\": 4, \"log_url\": \"<url>\"}", "timestamp": 1785432073.3310692}
+{"type": "outgoing", "chat_id": 5528359553, "text": "{\"answer\": 4, \"log_url\": \"https://milana-ponderous-margy.ngrok-free.dev/\"}", "timestamp": 1785432078.5857587}
